@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Husky
+comment1.params=
+comment1.target=Husky()
+comment2.params=a\ b
+comment2.target=Husky(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ interact()
+comment4.params=
+comment4.target=java.lang.String\ raceDog()
+comment5.params=
+comment5.target=java.lang.String\ walk()
+numComments=6

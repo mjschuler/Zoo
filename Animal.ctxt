@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\n\ The\ Animal\ class\ for\ the\ whole\ Zoo\n
+comment1.params=species\ desc
+comment1.target=Animal(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ Animal\ that\ accepts\ species\ &\ desc\n
+comment2.params=
+comment2.target=java.lang.String\ getSpecies()
+comment3.params=
+comment3.target=java.lang.String\ getDesc()
+comment4.params=
+comment4.target=java.lang.String\ eat()
+comment5.params=
+comment5.target=java.lang.String\ makeNoise()
+comment6.params=
+comment6.target=java.lang.String\ interact()
+numComments=7
