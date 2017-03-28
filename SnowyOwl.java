@@ -1,3 +1,4 @@
+//Michael Schuler
 public class SnowyOwl extends Owl implements Fly{
     
     SnowyOwl(){
