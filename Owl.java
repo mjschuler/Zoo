@@ -1,3 +1,4 @@
+//Michael Schuler
 public class Owl extends Animal implements Fly{
     public String toy;
     //New Constructer
